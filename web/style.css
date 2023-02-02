@@ -1,0 +1,10 @@
+
+.container {
+    width:500px;
+    border:2px solid red;
+    border-radius:5px;
+    padding:5px;
+}
+.box{
+    width:100%;
+}
